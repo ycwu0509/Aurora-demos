@@ -47,6 +47,7 @@ We show how to reproduce (execute) the generated attacks in this section.
 Please clone this repo first:
 ```bash
 git clone https://github.com/LexusWang/Aurora-demos.git && cd Aurora-demos
+conda env create -f environment.yml
 ```
 
 ### 0. Dependencies
